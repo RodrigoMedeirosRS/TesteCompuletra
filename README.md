@@ -1,1 +1,2 @@
-# TesteCompuletra
+# Teste Compuletra
+## Regras
