@@ -8,10 +8,12 @@ Você deverá alterar o projeto contido neste repositório utilzando conceitos d
 
 ## Regras:
 1) Você não pode usar bibliotecas externar, nem extensões nugget.
-2) Você não pode mudar ou mover de lugar nenhum dos trechos sinalizados como as marcações "Não Mudar", exemplos:
+2) Nenhum autômato pode ter sua função Escreve executada de fora do método Executar Automato da classe Executa, no entanto você é livre para chamar esse método várias vezes.
+3) Você não pode mudar ou mover de lugar nenhum dos trechos sinalizados como as marcações "Não Mudar", exemplos:
 
 ## Critérios de Avaliação:
 * Funcionalidade: O código compila e cumpre as tarefas propostas?
+* Domínio Sobre Orientação a Objetos: O quão bem você lida com orientação a objetos?
 * Organização: O quanto o código respeita as conveções do Clean Code e do S.O.L.I.D?
 * Arquitetura: O código viola a estrutura padrão do projeto?
 
