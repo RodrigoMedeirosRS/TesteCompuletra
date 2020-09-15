@@ -1,6 +1,6 @@
 # Teste Compuletra
 ## Descrição do Desafio:
-Você deverá alterar o projeto contido neste repositório utilzando conceitos de Orientação a Objetos, Clean Code e S.O.L.I.D, de forma a cumprir os seguintes objetivos:
+No presente código você encontra um programa que executa instâncias da classe automato, você deverá alterar o projeto contido neste repositório utilzando conceitos de Orientação a Objetos, Clean Code e S.O.L.I.D, de forma a cumprir os seguintes objetivos:
 
 * Fazer com que um automato escreva na ne tela a data e hora do sistema precedida da seguinte mensagem: "Olá agora a hora atual do sistema é "
 * Fazer um autômato que recebe uma string qualquer e subistituia todas a palavra "Falha" presentes na string por "Sucesso".
