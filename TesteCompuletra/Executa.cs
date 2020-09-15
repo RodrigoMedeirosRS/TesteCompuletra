@@ -6,9 +6,9 @@ namespace TesteCompuletra
 {
     public static class Executa
     {
-        public static void ExecutaAutomato(IAutomatoEscritor automatoEscritor)
+        public static void ExecutaAutomato(IAutomatoEscritor automato)
         {
-            automatoEscritor.Escreve();
+            automato.Escreve();
         }
     }
 }
