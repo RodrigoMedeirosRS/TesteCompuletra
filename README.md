@@ -26,6 +26,6 @@ Número palíndromo (ou Capicua) é um número (ou conjunto de números) que len
 Por exemplo: 212, 3003, 456654, 8888888, etc.
 
 ## Pistas:
-https://youtu.be/H3bfuHsd348
-https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
-https://www.youtube.com/user/codigofontetv
+* https://youtu.be/H3bfuHsd348
+* https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
+* https://www.youtube.com/user/codigofontetv
