@@ -1,0 +1,16 @@
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.exe
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.deps.json
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.runtimeconfig.json
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.runtimeconfig.dev.json
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.dll
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\TesteCompuletra.pdb
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.csprojAssemblyReference.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.AssemblyInfoInputs.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.AssemblyInfo.cs
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.csproj.CoreCompileInputs.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.dll
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.pdb
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.genruntimeconfig.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\Negocio.dll
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\bin\Debug\netcoreapp3.1\Negocio.pdb
+C:\Users\edmundo\source\Repos\TesteCompuletra\TesteCompuletra\obj\Debug\netcoreapp3.1\TesteCompuletra.csproj.CopyComplete

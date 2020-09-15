@@ -1,0 +1,9 @@
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\bin\Debug\netstandard2.0\Negocio.deps.json
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\bin\Debug\netstandard2.0\Negocio.dll
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\bin\Debug\netstandard2.0\Negocio.pdb
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.csprojAssemblyReference.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.AssemblyInfo.cs
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.dll
+C:\Users\edmundo\source\Repos\TesteCompuletra\Negocio\obj\Debug\netstandard2.0\Negocio.pdb
