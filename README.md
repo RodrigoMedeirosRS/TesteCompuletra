@@ -25,6 +25,10 @@ No presente código você encontra um programa que executa instâncias da classe
 Número palíndromo (ou Capicua) é um número (ou conjunto de números) que lendo da esquerda para a direita ou da direita para a esquerda são iguais.
 Por exemplo: 212, 3003, 456654, 8888888, etc.
 
+## Dependências:
+Para executar esse projeto você precisa do SDK do .NetCore 3.1
+* https://dotnet.microsoft.com/download
+
 ## Pistas:
 * https://youtu.be/H3bfuHsd348
 * https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw
