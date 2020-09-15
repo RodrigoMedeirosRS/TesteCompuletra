@@ -4,7 +4,7 @@ No presente código você encontra um programa que executa instâncias da classe
 
 * Fazer com que um automato escreva na ne tela a data e hora do sistema precedida da seguinte mensagem: "Olá agora a hora atual do sistema é "
 * Fazer um autômato que recebe uma string qualquer e subistituia todas a palavra "Falha" presentes na string por "Sucesso".
-* Fazer um autômota que receba um número e printe na tela o palíndromo seguinte a este número.
+* Fazer um autômoto que receba um número e printe na tela o palíndromo seguinte a este número.
 
 ## Regras:
 1) Você não pode usar bibliotecas externas, nem extensões nuget.
