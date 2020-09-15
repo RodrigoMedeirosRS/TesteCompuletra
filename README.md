@@ -2,7 +2,7 @@
 ## Descrição do Desafio:
 Você deverá alterar o projeto contido neste repositório utilzando conceitos de Orientação a Objetos, Clean Code e S.O.L.I.D, de forma a cumprir os seguintes objetivos:
 
-* Fazer com que um atomato escreva na ne tela a data e hora do sistema precedida da seguinte mensagem: "Olá agora a hora atual do sistema é "
+* Fazer com que um automato escreva na ne tela a data e hora do sistema precedida da seguinte mensagem: "Olá agora a hora atual do sistema é "
 * Fazer um atômato que recebe uma string qualquer e subistituia todas as palavras "Falhas" presentes na string por "Sucesso".
 * Fazer um atômotado que receba um número e printe na tela o palíndromo seguinte a este número.
 
