@@ -19,7 +19,7 @@ Você deverá alterar o projeto contido neste repositório utilzando conceitos d
 * Organização: O quanto o código respeita as conveções do Clean Code e do S.O.L.I.D?
 * Arquitetura: O código viola a estrutura padrão do projeto?
 * Originalidade: Será avaliado a originalidade do seu código, quanto menos for copiado da rede melhor.
-* Creditação: Caso hajam trechos de código que não sejam de sua autoria, estes deversão ser creditados ao autor original e deverá ser apresentada uma justificativa de por que se utilizou esse código ao invés de uma implementação própria. O código original deve possuir uma licença de uso permissiva.
+* Creditação: Caso hajam trechos de código que não sejam de sua autoria, estes deverão ser creditados ao autor original e deverá ser apresentada uma justificativa de por que se utilizou esse código ao invés de uma implementação própria. O código original deve possuir uma licença de uso permissiva.
 
 ## Referências:
 Número palíndromo (ou Capicua) é um número (ou conjunto de números) que lendo da esquerda para a direita ou da direita para a esquerda são iguais.
