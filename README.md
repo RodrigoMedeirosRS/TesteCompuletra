@@ -7,7 +7,7 @@ Você deverá alterar o projeto contido neste repositório utilzando conceitos d
 * Fazer um autômota que receba um número e printe na tela o palíndromo seguinte a este número.
 
 ## Regras:
-1) Você não pode usar bibliotecas externar, nem extensões nugget.
+1) Você não pode usar bibliotecas externas, nem extensões nugget.
 2) Nenhum autômato pode ter sua função Escreve executada de fora do método Executar Automato da classe Executa, no entanto você é livre para chamar esse método várias vezes.
 3) Você não pode mudar ou mover de lugar nenhum dos trechos sinalizados como as marcações "Não Mudar", exemplos:
 ![Screenshot](https://github.com/RodrigoMedeirosRS/TesteCompuletra/blob/master/Screenshot_Teste1.png?raw=true)
